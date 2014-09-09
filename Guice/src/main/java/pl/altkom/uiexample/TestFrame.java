@@ -20,8 +20,10 @@ public class TestFrame extends JFrame {
 
 		JPanel p = new JPanel();
 		button.addActionListener(s);
+                //guzik.addActionListener(s);
 		// button.setText("Przycisk 2");
 		p.add(button);
+                //p.add(guzik);
 		quit.addActionListener(asquit);
 		quit.setText("Quit");
 		p.add(quit);
