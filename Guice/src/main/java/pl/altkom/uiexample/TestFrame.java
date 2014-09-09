@@ -1,4 +1,4 @@
-package guice.uiexample;
+package pl.altkom.uiexample;
 
 import java.awt.BorderLayout;
 import javax.swing.AbstractAction;

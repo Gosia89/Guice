@@ -1,4 +1,4 @@
-package guice.mathservice;
+package pl.altkom.mathservice;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
