@@ -6,7 +6,11 @@ public class Person {
 	String nazwisko;
 	int wiek;
 	
-	
+	Person(String name, String nazwisko, int wiek) {
+            this.name = name;
+            this.nazwisko = nazwisko;
+            this.wiek = wiek;
+        }
 	
 	public String getName() {
 		return name;
