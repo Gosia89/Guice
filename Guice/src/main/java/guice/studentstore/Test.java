@@ -1,4 +1,4 @@
-package pl.altkom.studentstore;
+package guice.studentstore;
 
 import java.util.Scanner;
 import com.google.inject.Guice;

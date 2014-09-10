@@ -1,4 +1,4 @@
-package pl.altkom.studentstore;
+package guice.studentstore;
 
 import com.google.inject.AbstractModule;
 

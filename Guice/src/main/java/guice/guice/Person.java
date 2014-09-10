@@ -1,4 +1,4 @@
-package pl.altkom.injection;
+package guice.guice;
 
 public class Person {
 	

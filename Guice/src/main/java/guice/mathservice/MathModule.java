@@ -1,6 +1,8 @@
-package pl.altkom.mathservice;
+package guice.mathservice;
 
 import com.google.inject.AbstractModule;
+import guice.mathservice.IMathAdditionService;
+import guice.mathservice.SnailAdditionService;
 
 public class MathModule extends AbstractModule {
 	@Override

@@ -1,4 +1,4 @@
-package pl.altkom.injection;
+package guice.guice;
 
 import java.util.List;
 

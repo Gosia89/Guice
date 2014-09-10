@@ -1,4 +1,4 @@
-package pl.altkom.uiexample;
+package guice.uiexample;
 
 import java.awt.event.ActionEvent;
 
